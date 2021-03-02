@@ -1,0 +1,35 @@
+ @import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
+
+body {
+    font-family: 'DotGothic16', sans-serif;
+    background-image: url("http://media-s3-us-east-1.ceros.com/hype-beast/images/2018/07/13/3510cdb9cf222cd0cec19fdfea4bddbb/pokedex.png");
+    background-size: 100%;
+    background-repeat:no-repeat;
+  }
+  
+  h1 {
+    
+    color: black;
+    font-size: 50px;
+    text-align: right;
+    margin-right:70px;
+  }
+    
+  p {
+    
+    color: black;
+    font-size:100%;
+    text-align:left;
+    margin-left: 40%;
+    
+  } 
+  div {
+    font-size:105%;
+    color:green;
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 20px;
+  }
+
+ 
+  
